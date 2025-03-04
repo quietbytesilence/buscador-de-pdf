@@ -86,7 +86,6 @@ Termos combinados: Gustavo & Carneiro
 
 ### Arquivos Gerados
 - `Resultados_20231025_1430.pdf`: PDF com as páginas que contêm os termos.
-- `Resultados.txt`: Relatório textual com todas as ocorrências.
 
 ---
 
