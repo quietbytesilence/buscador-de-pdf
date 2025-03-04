@@ -3,6 +3,7 @@
 Este é um script Python que busca termos específicos em arquivos PDF dentro de uma pasta e suas subpastas. Ele suporta buscas por termos individuais e combinações de termos (usando `&`). O script exibe os resultados no terminal e gera um PDF com as páginas relevantes e os termos destacados.
 
 ---
+# Abra a Wiki do projeto para mais informações
 
 ## Funcionalidades
 
